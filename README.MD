@@ -22,4 +22,4 @@ Originally made on Omarchy, but it should work on any Linux distro with fastfetc
 1. Install fastfetch using your distro’s package manager.
 2. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/sundancer5/Fastfetch-Theme.git
